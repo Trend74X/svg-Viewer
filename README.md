@@ -1,26 +1,40 @@
 # SVG Viewer
 
-**SVG Viewer** is a simple Windows-only application built with Flutter to view SVG images. Unlike other image formats, SVG (Scalable Vector Graphics) is not natively supported for viewing in some applications, and this tool solves that problem by allowing users to easily open and view SVG files.
-
-Built with Flutter 3.13.2, this app offers a lightweight and straightforward solution for SVG image viewing on Windows.
+**SVG Viewer** is a lightweight, Windows-only application built to view SVG images. Unlike other image formats, SVG (Scalable Vector Graphics) requires a specialized viewer. This app allows users to easily open and view SVG files while preserving their vector properties.
 
 ## Features
 
-- **View SVG files**: Open and view SVG images with full resolution.
-- **Windows-only application**: Designed specifically for Windows users.
-- **Flutter-based**: Built using Flutter 3.13.2 for a fast, responsive UI.
-- **Lightweight**: No unnecessary bloat—just a tool for viewing SVG images as they are.
+- View SVG files with full resolution.
+- Specifically built for **Windows**.
+- Lightweight and fast, with no unnecessary bloat.
 
-## Prerequisites
+## Installation
 
-To run this project locally, you need:
+1. **Download the latest release**:  
+   You can download the latest pre-built version of the app from the [releases page](https://github.com/your-username/svg-viewer/releases) (if available).
 
-- Flutter 3.13.2 or later (for Windows development)
-- A Windows machine (since this app is Windows-only)
+2. **Run the application**:  
+   After downloading, simply run the executable file (`.exe`) to launch the app.
 
-### Setting up Flutter 3.13.2
+## Usage
 
-Ensure you have Flutter 3.13.2 installed on your machine. You can check the Flutter version by running:
+- **Open SVG Files**: Once the app is launched, you can open SVG files either via the file dialog or by dragging and dropping them into the app window.
+- The app will render the SVG file with full resolution and maintain its vector properties, ensuring scalability without quality loss.
 
-```bash
-flutter --version
+
+## Contributing
+
+We welcome contributions to enhance this project. If you'd like to contribute:
+
+1. **Fork the repository** to your own account.
+2. **Make changes** and test thoroughly.
+3. **Submit a pull request** with your changes.
+
+Please ensure your code follows the project's coding standards and is properly tested.
+
+## Contact
+
+For any questions or suggestions, feel free to open an issue or contact the project maintainer at ashok.shk01@gmail.com.
+
+---
+
