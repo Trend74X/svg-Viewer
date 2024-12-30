@@ -1,16 +1,26 @@
-# svg_viewer
+# SVG Viewer
 
-A new Flutter project.
+**SVG Viewer** is a simple Windows-only application built with Flutter to view SVG images. Unlike other image formats, SVG (Scalable Vector Graphics) is not natively supported for viewing in some applications, and this tool solves that problem by allowing users to easily open and view SVG files.
 
-## Getting Started
+Built with Flutter 3.13.2, this app offers a lightweight and straightforward solution for SVG image viewing on Windows.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **View SVG files**: Open and view SVG images with full resolution.
+- **Windows-only application**: Designed specifically for Windows users.
+- **Flutter-based**: Built using Flutter 3.13.2 for a fast, responsive UI.
+- **Lightweight**: No unnecessary bloat—just a tool for viewing SVG images as they are.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project locally, you need:
+
+- Flutter 3.13.2 or later (for Windows development)
+- A Windows machine (since this app is Windows-only)
+
+### Setting up Flutter 3.13.2
+
+Ensure you have Flutter 3.13.2 installed on your machine. You can check the Flutter version by running:
+
+```bash
+flutter --version
